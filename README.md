@@ -32,9 +32,9 @@ sklearn的安装：  pip3 install sklearn
 ```
 
 ### 4.深度学习环境配置篇
-* Nvidia Driver &nbsp;&nbsp;&nbsp; ```tip: &nbsp;use->NVIDIA-Linux-x86_64-384.111.run```
-* Cuda &nbsp;&nbsp;&nbsp; ```tip: &nbsp;use->cuda_9.0.176_384.81_linux.run```
-* Cudnn &nbsp;&nbsp;&nbsp; ```tip: &nbsp;cudnn-9.0-linux-x64-v7.tgz```<br><br>
+* Nvidia Driver &nbsp;&nbsp;&nbsp; ```tip: use->NVIDIA-Linux-x86_64-384.111.run```
+* Cuda &nbsp;&nbsp;&nbsp; ```tip: use->cuda_9.0.176_384.81_linux.run```
+* Cudnn &nbsp;&nbsp;&nbsp; ```tip: cudnn-9.0-linux-x64-v7.tgz```<br><br>
 建议: &nbsp;&nbsp;```建议别作,本人亲测N种方案得出比较稳定的驱动方案,亲测实用,其他的可能导致boom,认识我的可以直接找我拷贝```<br><br>
 Nvidia Driver安装教学点击[这里](https://blog.csdn.net/fdqw_sph/article/details/78745375)&nbsp;&nbsp;  ```建议安装完驱动就跑路,看下面的Cuda、Cudnn安装```<br>
 Cuda Cudnn安装教学点击[这里](https://blog.csdn.net/zhangbo_0323/article/details/78718157)&nbsp;&nbsp;  ```注意上面已完成驱动安装,直接去安装Cuda,Cudnn,大工告成的话可以安装GPU版tensorflow```<br><br>
