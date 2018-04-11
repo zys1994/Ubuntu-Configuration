@@ -3,14 +3,14 @@
   其中包括```更新软件源```、```搜狗输入法```、```谷歌浏览器```、```git```安装等<br>
   ```cmake```、```opencv```、```qt```等安装可参考[这里](https://blog.csdn.net/yehuohan/article/details/51327465)<br><br>
 ### 2.C++环境配置篇
-C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)
+C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
 别用免费的-->[Clion破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)---```tip:教程是pycharm的，clion破解同理```
 ```
 server选项里边输入 http://idea.imsxm.com/-->这是我使用的，亲测有效
 ```
 CLion的使用可参考[这里](https://www.jianshu.com/p/cd190dbf0435)<br><br>
 ### 3.python环境配置篇
-python很好用的IDE--[Pycharm](https://www.jetbrains.com/pycharm/)
+python很好用的IDE--[Pycharm](https://www.jetbrains.com/pycharm/)<br>
 别用免费的-->[Pycharm破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)<br>
 #### python运用比较多的依赖库
 * numpy 
