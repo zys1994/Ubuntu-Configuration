@@ -12,7 +12,7 @@ CLion的使用可参考[这里](https://www.jianshu.com/p/cd190dbf0435)<br><br>
 ### 3.python环境配置篇
 python很好用的IDE--[Pycharm](https://www.jetbrains.com/pycharm/)
 别用免费的-->[Pycharm破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)<br>
-####python运用比较多的依赖库
+#### python运用比较多的依赖库
 * numpy 
 * pandas
 * matplotlib
