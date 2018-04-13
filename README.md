@@ -29,6 +29,8 @@ matplotlib的安装： pip3 install matplotlib
 scipy的安装：  pip3 install scipy
 
 sklearn的安装：  pip3 install sklearn
+
+opencv-contrib-python的安装:  pip3 install opencv-contrib-python
 ```
 
 ### 4.深度学习环境配置篇
