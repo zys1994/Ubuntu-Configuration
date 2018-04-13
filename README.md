@@ -11,6 +11,7 @@ C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
 CLion的使用可参考[这里](https://www.jianshu.com/p/cd190dbf0435)<br><br>
 ### 3.python环境配置篇
 python很好用的IDE--[Pycharm](https://www.jetbrains.com/pycharm/)<br>
+下载完后[安装教程](https://blog.csdn.net/zhuanshu666/article/details/73554885)<br>
 别用免费的-->[Pycharm破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)<br>
 #### python运用比较多的依赖库
 * numpy 
