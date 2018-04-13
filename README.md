@@ -6,7 +6,7 @@
 C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
 别用免费的-->[Clion破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)---```tip:教程是pycharm的，clion破解同理```
 ```
-server选项里边输入 http://idea.imsxm.com/-->这是我使用的，亲测有效
+在 License sever address 处填入 https://jetlicense.nss.im/-->这是我使用的，亲测有效
 ```
 CLion的使用可参考[这里](https://www.jianshu.com/p/cd190dbf0435)<br><br>
 ### 3.python环境配置篇
