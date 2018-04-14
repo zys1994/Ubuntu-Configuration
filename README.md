@@ -21,7 +21,7 @@ python很好用的IDE--[Pycharm](https://www.jetbrains.com/pycharm/)<br>
 * sklearn<br>
 
 ```
-numpy的安装： pip3 install numpy
+numpy的安装： pip3 install numpy   若pip3超时，使用pip3 --default-timeout=100 install ....
 
 pandas的安装：  pip3 install pandas
 
