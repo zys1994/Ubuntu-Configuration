@@ -3,7 +3,8 @@
   其中包括```更新软件源```、```搜狗输入法```、```谷歌浏览器```、```git```安装等<br>
   ```cmake```、```opencv```、```qt```等安装可参考[这里](https://blog.csdn.net/yehuohan/article/details/51327465)<br>
 #### opencv-cool的安装方法-cv3的最高版本
-  ```git clone https://github.com/opencv/opencv
+  ```
+     git clone https://github.com/opencv/opencv
      cd opencv
      mkdir build
      cd build
