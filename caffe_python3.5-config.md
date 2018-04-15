@@ -41,14 +41,14 @@ cmake ..
 make
 sudo make install
 ```
-###3.下载caffe
+### 3.下载caffe
 ```
 cd ~/Dev # 我的开发环境目录
 git clone https://github.com/BVLC/caffe
 cd caffe
 cp Makefile.config.example Makefile.config
 ```
-###3.GPU版配置-主要修改Makefile.config,Makefile两处
+### 4.GPU版配置-主要修改Makefile.config,Makefile两处
 ```
 Makefile.config的修改
 1.注释第8行CPU_ONLY :=1(第8行） USE_CUDNN :=1
@@ -75,7 +75,7 @@ Makefile的修改:
 将#error-- unsupported GNU version! gcc versions later than 4.9 are not supported!
 改为//#error-- unsupported GNU version! gcc versions later than 4.9 are not supported!
 ```
-### 4.GPU版配置-对于一些出错的修改
+### 5.GPU版配置-对于一些出错的修改
 **1.出现错误:**  ld cannot find lboost_python3<br>
 参考[这里](https://github.com/BVLC/caffe/issues/4843)<br>
 
@@ -93,13 +93,13 @@ Create: /etc/ld.so.conf.d/opencv.conf
 wrote /usr/local/lib/ to my opencv.conf file.
 sudo ldconfig -v  
 ```
-### 5.生成Caffe
+### 6.生成Caffe
 ```
 sudo make all -j8
 sudo make test -j8
 sudo make runtest -j8
 ```
-### 6.生成caffe的python接口
+### 7.生成caffe的python接口
 ```
 sudo make pycaffe -j8
 若报错：python/caffe/_caffe.cpp:10:31: fatal error: numpy/arrayobject.h: 没有那个文件或目录
