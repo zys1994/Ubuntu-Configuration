@@ -75,7 +75,7 @@ Makefile的修改:
 将#error-- unsupported GNU version! gcc versions later than 4.9 are not supported!
 改为//#error-- unsupported GNU version! gcc versions later than 4.9 are not supported!
 ```
-###4.GPU版配置-对于一些出错的修改
+### 4.GPU版配置-对于一些出错的修改
 **1.出现错误:**  ld cannot find lboost_python3<br>
 参考[这里](https://github.com/BVLC/caffe/issues/4843)<br>
 
