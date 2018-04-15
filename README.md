@@ -11,7 +11,7 @@
      make
     sudo make install
    ```
-  <br>
+<br>
 ### 2.C++环境配置篇
 C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
 别用免费的-->[Clion破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)---```tip:教程是pycharm的，clion破解同理```
