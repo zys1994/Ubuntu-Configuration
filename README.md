@@ -9,7 +9,8 @@
      cd build
      cmake ..
      make
-     sudo make install```<br>
+     sudo make install<br>
+   ```
   
 ### 2.C++环境配置篇
 C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
