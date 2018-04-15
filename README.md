@@ -8,8 +8,8 @@
      mkdir build
      cd build
      cmake ..
-     make<br>
-     sudo make install
+     make
+    sudo make install
    ```
   
 ### 2.C++环境配置篇
