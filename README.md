@@ -2,15 +2,14 @@
 ### 1.[一系列软件安装](https://blog.csdn.net/fuchaosz/article/details/51882935)<br>
   其中包括```更新软件源```、```搜狗输入法```、```谷歌浏览器```、```git```安装等<br>
   ```cmake```、```opencv```、```qt```等安装可参考[这里](https://blog.csdn.net/yehuohan/article/details/51327465)<br><br>
-####opencv-cool的安装方法-cv3的最高版本
+#### opencv-cool的安装方法-cv3的最高版本
   ```git clone https://github.com/opencv/opencv
      cd opencv
      mkdir build
      cd build
      cmake ..
      make
-     sudo make install```
-  
+     sudo make install```<br>
   
 ### 2.C++环境配置篇
 C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
