@@ -1,7 +1,7 @@
 # Ubuntu安装教学-喂养式------author:ZengYs
 ### 1.[一系列软件安装](https://blog.csdn.net/fuchaosz/article/details/51882935)<br>
   其中包括```更新软件源```、```搜狗输入法```、```谷歌浏览器```、```git```安装等<br>
-  ```cmake```、```opencv```、```qt```等安装可参考[这里](https://blog.csdn.net/yehuohan/article/details/51327465)<br><br>
+  ```cmake```、```opencv```、```qt```等安装可参考[这里](https://blog.csdn.net/yehuohan/article/details/51327465)<br>
 #### opencv-cool的安装方法-cv3的最高版本
   ```git clone https://github.com/opencv/opencv
      cd opencv
@@ -11,7 +11,7 @@
      make
     sudo make install
    ```
-  
+  <br>
 ### 2.C++环境配置篇
 C++很好用的IDE--[Clion](https://www.jetbrains.com/clion/)<br>
 别用免费的-->[Clion破解方法](https://blog.csdn.net/zxjbeyond1986/article/details/79263529)---```tip:教程是pycharm的，clion破解同理```
